@@ -27,6 +27,7 @@
            }
          }}
        >
+//           The label is used to specify column names 
          <label>Name</label>
          <input
            type="text"

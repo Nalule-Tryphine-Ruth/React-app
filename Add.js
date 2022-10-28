@@ -44,6 +44,7 @@
            onChange={inputHandler}
          />
          <button className="btn btn-success">Add New User</button>
+// the button will help add a new user 
        </form>
      );
    };

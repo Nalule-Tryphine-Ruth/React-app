@@ -38,6 +38,7 @@
          />
          <label>nameofcitizen</label>
          <input
+// This specifies the data to be entered
            type="text"
            name="username"
            placeholder="Enter a username..."
